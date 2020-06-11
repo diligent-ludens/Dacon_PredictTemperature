@@ -1,0 +1,31 @@
+loss = 0.5031120662887891
+# 하이퍼 파라매터
+learning_rate = 0.001
+epoch1 = 30
+batch_size1 = 128
+epoch2 = 40
+batch_size2 = 64
+interval_1 = 12
+레이어 파라매터
+모델의 수 : 2
+
+lstm_size1 = 300
+lstm_size2 = 286
+l1_size = 400
+l2_size = 300
+l3_size = 150
+l4_size = 100
+l5_size = 75
+l6_size = 50
+
+lstm_size1_model2 = 160
+l1_size_model2 = 100
+l2_size_model2 = 105
+l3_size_model2 = 36
+l4_size_model2 = 45
+l5_size_model2 = 30
+l6_size_model2 = 10
+output_size = 1
+y_columns = ['Y09', 'Y15', 'Y16']
+drop_x_columns = ['X04', 'X10', 'X21', 'X36', 'X39', 'X11', 'X14', 'X16', 'X19', 'X34', 'X01', 'X06', 'X22', 'X27', 'X29', 'X05', 'X23', 'X33', 'X08', 'X09', 'X13', 'X15']
+Callback = 3

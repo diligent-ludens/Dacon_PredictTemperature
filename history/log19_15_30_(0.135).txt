@@ -1,0 +1,18 @@
+loss = 0.13463046657187597
+# 하이퍼 파라매터
+learning_rate = 0.01
+epoch1 = 60
+batch_size1 = 128
+epoch2 = 20
+batch_size2 = 64
+interval_1 = 12
+interval_2 = 12
+interval_3 = 12
+keep_prob = 0
+레이어 파라매터
+lstm_size = 256
+lstm_size2 = 256
+l1_size = 256
+output_size = 1
+y_columns = ['Y15', 'Y16']
+drop_x_columns = ['X02', 'X14', 'X16', 'X19']

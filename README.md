@@ -7,18 +7,22 @@
 Link : [[DACON]공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/)
 
 프로젝트 환경
-+ IDE : Pycharm
-+ 언어 : Python, R
-+ 기능 : TensorFlow 2.1 GPU, Keras
++ IDE : Pycharm, Rstudio, Anaconda, Jupyter Notebook
++ OS : Window 10
++ Language : Python 3.7.4, R 3.6.3
++ Framework : TensorFlow 2.1 GPU, Keras
 + 팀원 : 5명
 
 진행 과정
-+ 2020.03.01 ~ 2020.03.13 : 데이터셋 특징 및 상관관계 분석
-+ 2020.03.14 ~ 2020.03.16 : 데이터 전처리, 초기 모델 구축
-+ 2020.03.17 ~ 2020.03.24 : 다양한 모델 구성 시도
-+ 2020.03.25 ~ 2020.03.27 : 하이퍼파라미터 조정, 앙상블 도입
-+ 2020.03.28 ~ : optimizer와 데이터 전처리 가공 방법 도모
++ 2020.03.13 ~ 2020.03.17 : 데이터 특징과 상관관계 분석
++ 2020.03.18 ~ 2020.03.20 : 모델 구성
++ 2020.03.21 ~ 2020.03.30 : 모델 fine tuning, 데이터 전처리
++ 2020.03.31 ~ : optimizer와 데이터 전처리 가공 방법 도모
 
 개선 사항
-+ 더 정확하고 섬세한 전처리 과정 필요
-+ 과적합이 일어나지 않도록 fine tuning을 계속 해나가야 함
++ 더 효과적인 전처리 방법 모색
+  + 풍향, 습도
++ 다른 앙상블 모델 적용 시도
+  + 모델 개수 조정, hyperparameter 조정
++ 알고리즘 모색
+  + Layer Normalization, Batch Normalization

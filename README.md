@@ -23,6 +23,7 @@ Link : [[DACON]공공 데이터 활용 온도 추정 AI 경진대회](https://da
 + 더 효과적인 전처리 방법 모색
   + 풍향, 습도
 + 다른 앙상블 모델 적용 시도
-  + 모델 개수 조정, hyperparameter 조정
-+ 알고리즘 모색
+  + 모델 개수 조정, hyper parameter 조정
++ 다른 알고리즘, optimizer 모색
   + Layer Normalization, Batch Normalization
+  + Nadam, Adaboost, AMS grad 등

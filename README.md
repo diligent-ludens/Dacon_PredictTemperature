@@ -8,7 +8,7 @@ Link : [[DACON]공공 데이터 활용 온도 추정 AI 경진대회](https://da
 
 프로젝트 환경
 + IDE : Pycharm, Rstudio, Anaconda, Jupyter Notebook
-+ OS : Window 10
++ OS : Windows 10
 + Language : Python 3.7.4, R 3.6.3
 + Framework : TensorFlow 2.1 GPU, Keras
 + 팀원 : 5명

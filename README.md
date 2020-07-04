@@ -4,7 +4,8 @@
 개요
 + 주어진 기상청 공공데이터를 이용해 생성한 RNN 모델을 기반으로 추후 80일 간의 온도 예측
 + DACON에서 주최한 경진대회 참여   
-Link : [[DACON]공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/)
+Link : [[DACON]공공 데이터 활용 온도 추정 AI 경진대회](https://dacon.io/competitions/official/235584/overview/)   
+PPT : [온도 추정 모델 PPT](https://github.com/heejahn/Dacon_PredictTemperature/blob/master/final%20project%20ppt.pdf)
 
 프로젝트 환경
 + IDE : Pycharm, Rstudio, Anaconda, Jupyter Notebook
